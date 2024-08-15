@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\Idkifitworks.exe.config
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\Idkifitworks.exe
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\Idkifitworks.pdb
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\EPPlus.Core.dll
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\bin\Debug\EPPlus.Core.xml
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.Properties.Resources.resources
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.csproj.CopyComplete
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.exe
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\Idkifitworks.pdb
+C:\Users\ASUS\Desktop\smssystem\Idkifitworks\Idkifitworks\obj\Debug\ExcelApp.MainForm.resources
